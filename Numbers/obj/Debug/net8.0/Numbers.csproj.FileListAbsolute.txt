@@ -1,0 +1,14 @@
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+E:\.NET LTI\Numbers\bin\Debug\net8.0\Numbers.exe
+E:\.NET LTI\Numbers\bin\Debug\net8.0\Numbers.deps.json
+E:\.NET LTI\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+E:\.NET LTI\Numbers\bin\Debug\net8.0\Numbers.dll
+E:\.NET LTI\Numbers\bin\Debug\net8.0\Numbers.pdb
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.dll
+E:\.NET LTI\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.pdb
+E:\.NET LTI\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+E:\.NET LTI\Numbers\obj\Debug\net8.0\ref\Numbers.dll

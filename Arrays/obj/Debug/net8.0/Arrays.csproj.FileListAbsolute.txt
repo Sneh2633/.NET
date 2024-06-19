@@ -1,0 +1,14 @@
+E:\.NET LTI\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\.NET LTI\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\.NET LTI\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\.NET LTI\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\.NET LTI\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\.NET LTI\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\.NET LTI\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\.NET LTI\Arrays\obj\Debug\net8.0\ref\Arrays.dll
