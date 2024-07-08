@@ -1,0 +1,15 @@
+E:\.NET LTI\SetOperations\bin\Debug\net8.0\SetOperations.exe
+E:\.NET LTI\SetOperations\bin\Debug\net8.0\SetOperations.deps.json
+E:\.NET LTI\SetOperations\bin\Debug\net8.0\SetOperations.runtimeconfig.json
+E:\.NET LTI\SetOperations\bin\Debug\net8.0\SetOperations.dll
+E:\.NET LTI\SetOperations\bin\Debug\net8.0\SetOperations.pdb
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.AssemblyInfoInputs.cache
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.AssemblyInfo.cs
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.csproj.CoreCompileInputs.cache
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.sourcelink.json
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.dll
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\refint\SetOperations.dll
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.pdb
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\SetOperations.genruntimeconfig.cache
+E:\.NET LTI\SetOperations\obj\Debug\net8.0\ref\SetOperations.dll

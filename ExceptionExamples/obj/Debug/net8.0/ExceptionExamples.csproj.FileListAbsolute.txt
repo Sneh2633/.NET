@@ -1,0 +1,15 @@
+E:\.NET LTI\ExceptionExamples\bin\Debug\net8.0\ExceptionExamples.exe
+E:\.NET LTI\ExceptionExamples\bin\Debug\net8.0\ExceptionExamples.deps.json
+E:\.NET LTI\ExceptionExamples\bin\Debug\net8.0\ExceptionExamples.runtimeconfig.json
+E:\.NET LTI\ExceptionExamples\bin\Debug\net8.0\ExceptionExamples.dll
+E:\.NET LTI\ExceptionExamples\bin\Debug\net8.0\ExceptionExamples.pdb
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.AssemblyInfoInputs.cache
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.AssemblyInfo.cs
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.csproj.CoreCompileInputs.cache
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.sourcelink.json
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.dll
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\refint\ExceptionExamples.dll
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.pdb
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ExceptionExamples.genruntimeconfig.cache
+E:\.NET LTI\ExceptionExamples\obj\Debug\net8.0\ref\ExceptionExamples.dll

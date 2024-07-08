@@ -9,3 +9,4 @@ E:\.NET LTI\CMS.UI.Models\obj\Debug\net8.0\CMS.UI.Models.dll
 E:\.NET LTI\CMS.UI.Models\obj\Debug\net8.0\refint\CMS.UI.Models.dll
 E:\.NET LTI\CMS.UI.Models\obj\Debug\net8.0\CMS.UI.Models.pdb
 E:\.NET LTI\CMS.UI.Models\obj\Debug\net8.0\ref\CMS.UI.Models.dll
+E:\.NET LTI\CMS.UI.Models\obj\Debug\net8.0\CMS.UI.Models.sourcelink.json

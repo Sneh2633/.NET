@@ -1,0 +1,15 @@
+E:\.NET LTI\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.exe
+E:\.NET LTI\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.deps.json
+E:\.NET LTI\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.runtimeconfig.json
+E:\.NET LTI\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.dll
+E:\.NET LTI\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.pdb
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfoInputs.cache
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfo.cs
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.sourcelink.json
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.dll
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\refint\LambdaExpressions.dll
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.pdb
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.genruntimeconfig.cache
+E:\.NET LTI\LambdaExpressions\obj\Debug\net8.0\ref\LambdaExpressions.dll

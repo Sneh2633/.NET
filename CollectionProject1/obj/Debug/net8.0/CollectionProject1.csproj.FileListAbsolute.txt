@@ -1,0 +1,15 @@
+E:\.NET LTI\CollectionProject1\bin\Debug\net8.0\CollectionProject1.exe
+E:\.NET LTI\CollectionProject1\bin\Debug\net8.0\CollectionProject1.deps.json
+E:\.NET LTI\CollectionProject1\bin\Debug\net8.0\CollectionProject1.runtimeconfig.json
+E:\.NET LTI\CollectionProject1\bin\Debug\net8.0\CollectionProject1.dll
+E:\.NET LTI\CollectionProject1\bin\Debug\net8.0\CollectionProject1.pdb
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.AssemblyInfoInputs.cache
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.AssemblyInfo.cs
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.csproj.CoreCompileInputs.cache
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.sourcelink.json
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.dll
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\refint\CollectionProject1.dll
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.pdb
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\CollectionProject1.genruntimeconfig.cache
+E:\.NET LTI\CollectionProject1\obj\Debug\net8.0\ref\CollectionProject1.dll

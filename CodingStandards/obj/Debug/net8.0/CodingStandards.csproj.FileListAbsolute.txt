@@ -1,0 +1,15 @@
+E:\.NET LTI\CodingStandards\bin\Debug\net8.0\CodingStandards.exe
+E:\.NET LTI\CodingStandards\bin\Debug\net8.0\CodingStandards.deps.json
+E:\.NET LTI\CodingStandards\bin\Debug\net8.0\CodingStandards.runtimeconfig.json
+E:\.NET LTI\CodingStandards\bin\Debug\net8.0\CodingStandards.dll
+E:\.NET LTI\CodingStandards\bin\Debug\net8.0\CodingStandards.pdb
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.AssemblyInfoInputs.cache
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.AssemblyInfo.cs
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.csproj.CoreCompileInputs.cache
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.sourcelink.json
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.dll
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\refint\CodingStandards.dll
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.pdb
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\CodingStandards.genruntimeconfig.cache
+E:\.NET LTI\CodingStandards\obj\Debug\net8.0\ref\CodingStandards.dll

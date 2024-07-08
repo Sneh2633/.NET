@@ -1,0 +1,15 @@
+E:\.NET LTI\ParamsAndMethods\bin\Debug\net8.0\ParamsAndMethods.exe
+E:\.NET LTI\ParamsAndMethods\bin\Debug\net8.0\ParamsAndMethods.deps.json
+E:\.NET LTI\ParamsAndMethods\bin\Debug\net8.0\ParamsAndMethods.runtimeconfig.json
+E:\.NET LTI\ParamsAndMethods\bin\Debug\net8.0\ParamsAndMethods.dll
+E:\.NET LTI\ParamsAndMethods\bin\Debug\net8.0\ParamsAndMethods.pdb
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.AssemblyInfoInputs.cache
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.AssemblyInfo.cs
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.csproj.CoreCompileInputs.cache
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.sourcelink.json
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.dll
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\refint\ParamsAndMethods.dll
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.pdb
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ParamsAndMethods.genruntimeconfig.cache
+E:\.NET LTI\ParamsAndMethods\obj\Debug\net8.0\ref\ParamsAndMethods.dll

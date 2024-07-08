@@ -10,9 +10,10 @@ E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.GeneratedMSBuildEdi
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.AssemblyInfoInputs.cache
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.AssemblyInfo.cs
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.csproj.CoreCompileInputs.cache
-E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.appl.43239923.Up2Date
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.dll
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\refint\CMS.application.dll
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.pdb
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.genruntimeconfig.cache
 E:\.NET LTI\CMS.application\obj\Debug\net8.0\ref\CMS.application.dll
+E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.sourcelink.json
+E:\.NET LTI\CMS.application\obj\Debug\net8.0\CMS.application.csproj.CopyComplete

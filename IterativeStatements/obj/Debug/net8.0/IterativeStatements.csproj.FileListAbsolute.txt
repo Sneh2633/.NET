@@ -1,0 +1,15 @@
+E:\.NET LTI\IterativeStatements\bin\Debug\net8.0\IterativeStatements.exe
+E:\.NET LTI\IterativeStatements\bin\Debug\net8.0\IterativeStatements.deps.json
+E:\.NET LTI\IterativeStatements\bin\Debug\net8.0\IterativeStatements.runtimeconfig.json
+E:\.NET LTI\IterativeStatements\bin\Debug\net8.0\IterativeStatements.dll
+E:\.NET LTI\IterativeStatements\bin\Debug\net8.0\IterativeStatements.pdb
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.AssemblyInfoInputs.cache
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.AssemblyInfo.cs
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.csproj.CoreCompileInputs.cache
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.sourcelink.json
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.dll
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\refint\IterativeStatements.dll
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.pdb
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\IterativeStatements.genruntimeconfig.cache
+E:\.NET LTI\IterativeStatements\obj\Debug\net8.0\ref\IterativeStatements.dll

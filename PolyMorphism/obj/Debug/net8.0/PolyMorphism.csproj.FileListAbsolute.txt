@@ -1,0 +1,15 @@
+E:\.NET LTI\PolyMorphism\bin\Debug\net8.0\PolyMorphism.exe
+E:\.NET LTI\PolyMorphism\bin\Debug\net8.0\PolyMorphism.deps.json
+E:\.NET LTI\PolyMorphism\bin\Debug\net8.0\PolyMorphism.runtimeconfig.json
+E:\.NET LTI\PolyMorphism\bin\Debug\net8.0\PolyMorphism.dll
+E:\.NET LTI\PolyMorphism\bin\Debug\net8.0\PolyMorphism.pdb
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.AssemblyInfoInputs.cache
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.AssemblyInfo.cs
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.csproj.CoreCompileInputs.cache
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.sourcelink.json
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.dll
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\refint\PolyMorphism.dll
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.pdb
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\PolyMorphism.genruntimeconfig.cache
+E:\.NET LTI\PolyMorphism\obj\Debug\net8.0\ref\PolyMorphism.dll

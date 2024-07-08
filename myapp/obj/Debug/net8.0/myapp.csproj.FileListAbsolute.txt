@@ -12,3 +12,4 @@ E:\.NET LTI\myapp\obj\Debug\net8.0\refint\myapp.dll
 E:\.NET LTI\myapp\obj\Debug\net8.0\myapp.pdb
 E:\.NET LTI\myapp\obj\Debug\net8.0\myapp.genruntimeconfig.cache
 E:\.NET LTI\myapp\obj\Debug\net8.0\ref\myapp.dll
+E:\.NET LTI\myapp\obj\Debug\net8.0\myapp.sourcelink.json

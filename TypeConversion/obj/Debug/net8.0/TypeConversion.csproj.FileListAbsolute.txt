@@ -1,0 +1,15 @@
+E:\.NET LTI\TypeConversion\bin\Debug\net8.0\TypeConversion.exe
+E:\.NET LTI\TypeConversion\bin\Debug\net8.0\TypeConversion.deps.json
+E:\.NET LTI\TypeConversion\bin\Debug\net8.0\TypeConversion.runtimeconfig.json
+E:\.NET LTI\TypeConversion\bin\Debug\net8.0\TypeConversion.dll
+E:\.NET LTI\TypeConversion\bin\Debug\net8.0\TypeConversion.pdb
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfoInputs.cache
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfo.cs
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.csproj.CoreCompileInputs.cache
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.sourcelink.json
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.dll
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\refint\TypeConversion.dll
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
+E:\.NET LTI\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll

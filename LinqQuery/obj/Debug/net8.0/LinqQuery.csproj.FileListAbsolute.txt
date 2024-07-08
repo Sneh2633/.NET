@@ -1,0 +1,15 @@
+E:\.NET LTI\LinqQuery\bin\Debug\net8.0\LinqQuery.exe
+E:\.NET LTI\LinqQuery\bin\Debug\net8.0\LinqQuery.deps.json
+E:\.NET LTI\LinqQuery\bin\Debug\net8.0\LinqQuery.runtimeconfig.json
+E:\.NET LTI\LinqQuery\bin\Debug\net8.0\LinqQuery.dll
+E:\.NET LTI\LinqQuery\bin\Debug\net8.0\LinqQuery.pdb
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.AssemblyInfoInputs.cache
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.AssemblyInfo.cs
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.csproj.CoreCompileInputs.cache
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.sourcelink.json
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.dll
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\refint\LinqQuery.dll
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.pdb
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\LinqQuery.genruntimeconfig.cache
+E:\.NET LTI\LinqQuery\obj\Debug\net8.0\ref\LinqQuery.dll
